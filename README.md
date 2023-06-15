@@ -1,10 +1,10 @@
-## --- Product name --- Hardware design
+## DAC 6-bit 1-channel MCP47A1 breakout Hardware design
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------: |
-|      [--- product name ----](https://www.solde.red/SKU)      |
+|      [Buy DAC 6-bit 1-channel MCP47A1 breakout](https://www.solde.red/333052)      |
 
------- product description ------
+This device uses MCP4725 which is a single channel, 6-bit digital to analog converter with I2C compatible serial interface. There's no integrated EEPROM memory which would allow DAC register and configuration bit values to be saved at powered off.
 
 ## Repository contents
 
