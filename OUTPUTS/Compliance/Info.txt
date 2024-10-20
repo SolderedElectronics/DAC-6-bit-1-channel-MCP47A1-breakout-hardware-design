@@ -2,4 +2,4 @@ SKU: 333052
 Full product name: DAC 6-bit 1-channel MCP47A1 breakout
 Country of origin: Croatia
 HS tariff code: 85437099
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388671809
